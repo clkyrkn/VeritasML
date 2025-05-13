@@ -1,0 +1,9 @@
+# do not upload dataset to GitHub
+data/raw/*.csv
+
+# temporary files
+*.pyc
+__pycache__/
+
+# environment files
+.env
