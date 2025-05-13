@@ -73,6 +73,10 @@ python main.py
 - Full classification report  
 - Confusion matrix with heatmap
 
+## Model Accuracy
+
+![Model Accuracy](assets/accuracy_plot.png)
+
 ## Author
 
 **Yarkin Colak**  
